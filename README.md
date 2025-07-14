@@ -30,20 +30,23 @@ Go to [https://console.groq.com/keys](https://console.groq.com/keys)
 Click “Create Key” → Copy the key (`gsk_...`)
 
 
-3. **Create a .env file in the root folder**
+##  Creating .env file in the root folder 
 
    REDDIT_CLIENT_ID=your_reddit_client_id
+   
    REDDIT_CLIENT_SECRET=your_reddit_client_secret
+   
    REDDIT_USER_AGENT=persona-script by u/yourusername
+   
    GROQ_API_KEY=gsk_your_groq_api_key
 
 
-4. **Install Python dependencies**
+##  Installing Python dependencies
 
    pip install -r requirements.txt
 
 
-5. **To generate a persona for any Reddit user:**
+##  Generating persona from scrapped data 
 
    Run the following script in  terminal of the root folder:
 
@@ -69,7 +72,7 @@ Click “Create Key” → Copy the key (`gsk_...`)
 
      Can be found in the output folder.
 
-6. **The PDF includes/will include the following**
+**The PDF includes/will include the following**
 
 
 Name (if inferable)
