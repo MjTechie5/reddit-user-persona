@@ -63,33 +63,31 @@ This project generates a detailed user persona from any public Reddit user profi
 
 **Sample outputs have been saved in the output folder of this repository** 
 
- Please check 
+
+##   The PDF Format of the Persona : 
 
 
-**The PDF includes/will include the following**
+     Name (if inferable)
 
+     Age range
 
-Name (if inferable)
+     Occupation
 
-Age range
+     Location
 
-Occupation
+     Quote
 
-Location
+     Motivations
 
-Quote
+     Personality traits
 
-Motivations
+     Habits
 
-Personality traits
+     Frustrations
 
-Habits
+     Goals
 
-Frustrations
-
-Goals
-
-Cited Reddit sources
+     Cited Reddit sources
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
